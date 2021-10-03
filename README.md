@@ -6,6 +6,8 @@ en_us is the default and will have the English UK versions, since the game is de
 Please feel free to do pull requests, spelling and other basic mistake fix's are also welcome.
 
 
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png?v8" width="16px"></img> en_us/en_gb: 100%
-<br>
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f1.png?v8" width="16px"></img> nl_nl In the works (Google Translate)
+<img src="https://www.worldometers.info/img/flags/uk-flag.gif" width="16px"></img> en_us/en_gb: 100%  
+<img src="https://www.worldometers.info/img/flags/nl-flag.gif" width="16px"></img> nl_nl In the works (Google Translate)   
+<img src="https://www.worldometers.info/img/flags/ja-flag.gif" width="16px"></img> jp Not Started  
+<img src="https://www.worldometers.info/img/flags/fr-flag.gif" width="16px"></img> fr Not Started  
+<img src="https://www.worldometers.info/img/flags/sp-flag.gif" width="16px"></img> sp Not Started  
